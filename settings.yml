@@ -1,7 +1,7 @@
 owners:
   - LupusLeaks YT
   - Ninja
-  - YourUserName
+  - peixotin iwnl
 
 status:
   avatar: CID_017_Athena_Commando_M
@@ -23,7 +23,7 @@ friends:
 
 party:
   dont_leave_if_owner_in_party: true
-  join_on_invite: false
+  join_on_invite: true
   join_if_party_is_empty: true
   
   add_all_members_on_join: true
